@@ -1,0 +1,32 @@
+{
+  "name": "homework02-ericsson-c",
+  "version": "1.0.0",
+  "description": "ericsson-c Homework #2 - Higher Order Functions",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework02-ericsson-c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework02-ericsson-c/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2022/homework02-ericsson-c#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.8.0",
+    "eslint-plugin-mocha": "^10.0.3",
+    "mocha-sinon": "^2.1.2",
+    "sinon": "^13.0.1"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
